@@ -1,5 +1,4 @@
-def Articles():
-    articles = [
+Articles = [
         {
             'id': 1,
             'title':'Article One',
@@ -22,4 +21,3 @@ def Articles():
             'create_date':'04-25-2017'
         }
     ]
-    return articles
